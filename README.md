@@ -11,7 +11,6 @@
 ### 🌐 Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" />][linkedin]  
-[<img align="left" alt="GitHub" width="22px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />][github]
 
 <br />
 
